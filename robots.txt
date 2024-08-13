@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Shyam-Thombre.github.io/sitemap.xml
+Sitemap: https://shyam-thombre.github.io/sitemap.xml
